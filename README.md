@@ -9,10 +9,14 @@ A **role-based task management web application** built with React.js that allows
 
 ## 📸 Screenshots
 
-> ![Employee Dashboard](image.png)
-![Admin Dashboard](<Screenshot 2026-03-02 022004.png>)
-![Login Dashboard](<Screenshot 2026-03-02 021919.png>)
-![alt text](<Screenshot 2026-03-02 022027.png>)
+### Login Page
+![Login](./screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin.png)
+
+### Employee Dashboard
+![Employee Dashboard](./screenshots/employee.png)
 
 ---
 
